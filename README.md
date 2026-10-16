@@ -12,7 +12,7 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 | [**GTM Build Log**](https://twishnoff.github.io/GTM-Build-Tracker/) | A 30-day public build of the GTM engineering stack on top of Mktforge: CI-deployed Workers, PostHog instrumentation, HubSpot as system of record, Clay enrichment, an outbound campaign on real contacts, and a BigQuery/dbt data layer. Updated daily. | Instrumented end to end — every signup, run and PDF is an event; the activation funnel is live. Weekly write-ups with real numbers. |
 | [**Battle Card Generator**](https://github.com/Twishnoff/Battlecard-Generator) | One-page competitive battle cards for a named competitor and ICP, delivered as PDF to Slack. | Multi-step research and drafting pipeline with a no-search scoring pass as a quality gate. |
 | [**Customer Intelligence**](https://github.com/Twishnoff/Customer-Intelligence) | A dashboard that maps a company's products to the job titles most likely to buy, plus competitors to watch. | Website analysis → ICP inference → structured output a PMM can act on. |
-| [**Minglish**](https://github.com/Twishnoff/Minglish) | Professional-English practice for native Mandarin speakers. | [one line, or drop the row] |
+| [**Minglish**](https://github.com/Twishnoff/Minglish) | Professional-English practice for native Mandarin speakers. | An English practice tool for Mandarin speakers in a professional setting. |
 
 ## How I work
 
