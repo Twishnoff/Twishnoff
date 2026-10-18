@@ -18,7 +18,7 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 
 - **Craft with empathy.** Everything I build starts with asking "who is this for, and what am I trying to help them accomplish?". Nothing gets built without a plan and goal.
 - **Build for production.** Mktforge has real users; the build log reports real activation and reply rates, including the misses.
-- **Buy, build or skip — working within budget.** Trade-offs logs back every tool choice (PostHog over GA4, Zapier for one alert and a Worker for the rest, Cloudflare Queues over direct calls).
+- **Buy, build or skip — working within budget.** I develop scalable systems that care about revenue. I'm always working to bring down the costs of anything I build without sacrificing usability or security.
 - **Applying contracts over conventions.** Analytics event taxonomy is documented and CI enforced: event that aren't in the contract fail the build.
 
 ## Stack
