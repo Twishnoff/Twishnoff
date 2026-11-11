@@ -18,7 +18,7 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 
 - **Craft with empathy.** Everything I build starts with asking "who is this for, and what am I trying to help them accomplish?" Nothing gets built without a plan and goal.
 - **Build for production.** I don't "vibe code". Everything I deploy is tested for functionality and security. Scalability and flexibility are always a consideration.
-- **Buy, build or skip, within budget.** I develop revenue-conscious systems. I'm always working to bring down the cost of anything I build without sacrificing impact.
+- **Design for Revenue.** I develop revenue-conscious systems. I'm always working to bring down the cost of anything I build without sacrificing impact.
 
 ## Stack
 
