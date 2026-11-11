@@ -2,7 +2,7 @@
 
 **Founding marketer who builds the systems, not just the strategy.** I've run marketing inside early-stage B2B startups, usually as the only marketer. Now I also build the AI pipelines, product analytics and outbound tooling that take companies from zero to one and beyond.
 
-Everything below is built with Claude in the loop: I design the systems, decide what gets built or bought, verify the output, and own every file.
+Everything below is built with Claude in the loop: I design the systems, decide what gets built or bought, and verify the output.
 
 ## What I'm building
 
@@ -17,9 +17,8 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 ## How I work
 
 - **Craft with empathy.** Everything I build starts with asking "who is this for, and what am I trying to help them accomplish?" Nothing gets built without a plan and goal.
-- **Build for production.** Mktforge has real users; the case study reports real activation and reply rates, including the misses.
-- **Buy, build or skip, within budget.** I develop scalable systems that care about revenue. I'm always working to bring down the cost of anything I build without sacrificing usability or security.
-- **Contracts over conventions.** The analytics event taxonomy is documented and CI-enforced: events that aren't in the contract fail the build.
+- **Build for production.** I don't "vibe code". Everything I deploy is tested for functionality and security. Scalability and flexibility are always a consideration.
+- **Buy, build or skip, within budget.** I develop revenue-conscious systems. I'm always working to bring down the cost of anything I build without sacrificing impact.
 
 ## Stack
 
