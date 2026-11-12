@@ -6,7 +6,7 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 
 ## What I'm building
 
-| Project | What it is | What the AI does |
+| Project | What it is | How I'm using AI |
 |---|---|---|
 | [Mktforge](https://github.com/Twishnoff/Mktforge) · [live app](https://app.mktforge.io) | A free marketing platform for founders and first marketing hires: nine agentic tools that draft positioning, personas, messaging, battle cards, and more. | Each module is a Claude pipeline on Cloudflare Workers: site research, framework-driven drafting, PDF output. Bring-your-own-key billing, Slack and HubSpot integrations. |
 | [GTM Engineering case study](https://twishnoff.github.io/Portfolio/GTM-Engineering) · [build tracker](https://twishnoff.github.io/GTM-Build-Tracker/) · [bootcamp template](https://github.com/Twishnoff/Marketing-Engineer-Bootcamp) | A complete GTM engine built solo in 30 days on top of Mktforge: CI-deployed Workers, PostHog instrumentation, HubSpot as system of record, Clay enrichment and ICP scoring, an outbound campaign on real contacts, and a BigQuery/dbt data layer. Four write-ups: [instrumentation](https://www.linkedin.com/pulse/instrumenting-plg-funnel-from-scratch-tyler-wishnoff-gaihc/), [HubSpot as system of record](https://www.linkedin.com/pulse/hubspot-system-record-logic-tyler-wishnoff-b7zfc/), [the outbound loop](https://www.linkedin.com/pulse/you-wont-use-tool-built-why-should-i-tyler-wishnoff-hbbcc/), [the data layer](https://www.linkedin.com/pulse/gtm-data-layer-team-one-tyler-wishnoff-4sxrc/). | Instrumented end to end: every signup, run and PDF is an event, the activation funnel is live, and replies are classified by Claude and handed off to Slack. |
