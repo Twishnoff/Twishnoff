@@ -1,8 +1,8 @@
 # Tyler Wishnoff
 
-**Founding marketer who builds the systems, not just the strategy.** I've run marketing inside early-stage B2B startups, usually as the only marketer. Now I also build the AI pipelines, product analytics and outbound tooling that take companies from zero to one and beyond.
+**Founding marketer who builds the systems, not just the strategy.** I've run marketing inside multiple early-stage B2B startups, building both the playbooks and team. Now I also build the AI pipelines, product analytics and outbound tooling that take companies from zero to one and beyond.
 
-Everything below is built with Claude in the loop: I design the systems, decide what gets built or bought, and verify the output.
+Everything below is built with Claude in the loop: I design the systems, decide what gets built or bought, and verify the output. 
 
 ## What I'm building
 
@@ -19,6 +19,7 @@ Everything below is built with Claude in the loop: I design the systems, decide 
 - **Craft with empathy.** Everything I build starts with asking "who is this for, and what am I trying to help them accomplish?" Nothing gets built without a plan and goal.
 - **Build for production.** I don't "vibe code". Everything I deploy is tested for functionality and security. Scalability and flexibility are always a consideration.
 - **Design for revenue.** I develop revenue-conscious systems. I'm always working to bring down the cost of anything I build without sacrificing impact.
+- **Scale with AI.** AI isn't a replacement for my marketing experience, it's a force multiplier. I figure out the path forward myself before automating execution with AI.
 
 ## Stack
 
